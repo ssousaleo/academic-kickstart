@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).s
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["agglomeration","code smells", "design problems"]
+tags = ["agglomeration","award","code smells", "design problems"]
 
 # Links (optional).
 #url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
@@ -66,7 +66,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = "Image credit: [**CBSOFT**](http://www.lia.ufc.br/~cbsoft2017/en/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

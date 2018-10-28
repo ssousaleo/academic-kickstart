@@ -1,5 +1,5 @@
 +++
-title = "On the identification of design problems in stinky code: experiences and tool support"
+title = "On the Identification of Design Problems in Stinky Code: Experiences and Tool Support"
 date = 2018-03-21T00:00:00
 draft = false
 
