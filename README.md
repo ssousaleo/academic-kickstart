@@ -50,3 +50,21 @@ Copyright 2017 [George Cushen](https://georgecushen.com).
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+
+to deploy
+Add everything to your local git repository and push it up to your remote repository on GitHub:
+
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+Whilst running the above commands you may be prompted for your Github username and password.
+
+Next, regenerate your website’s HTML code by running Hugo and uploading the public submodule to GitHub:
+
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
+cd ..
