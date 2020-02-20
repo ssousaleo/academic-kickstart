@@ -40,6 +40,5 @@ weight = 5
 
 # Biography
 
-
 Leonardo da Silva Sousa is an Assistant Teaching Professor in the Department of Electrical and Computer Engineering (ECE) at Carnegie Mellon University’s (CMU) Silicon Valley location. He received the Ph.D. in Computer Science from the Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). He received the MSc in Computer Science from Universidade Federal de Goiás and the BS in Computer Science from the Universidade Federal de Mato Grosso. His main research interests are: Code Smells, Design Problems, Refactoring, Software Architecture, Software Testing and Empirical Software Engineering.
 
