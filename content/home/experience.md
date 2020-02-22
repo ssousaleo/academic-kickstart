@@ -19,11 +19,24 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Teaching Professor"
+  company = "Carnegie Mellon University - Silicon Valley campus"
+  company_url = "https://sv.cmu.edu/"
+  location = "	Mountain View, California - USA"
+  date_start = "2020-01-01"
+  description = """Courses:
+  
+  * Software Verification & Testing
+  """
+
+
+[[experience]]
   title = "Researcher"
   company = "OPUS Research Group - PUC-Rio"
   company_url = "http://opus.les.inf.puc-rio.br"
   location = "Rio de Janeiro, Brazil"
   date_start = "2015-03-01"
+  date_end = "2019-12-21"
   description = """CAReCo – Recommendation Systems for Collaborative Software Maintenance.
   Funding Institution: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior-CAPES, Brazil.
   Responsibilities include:
@@ -43,7 +56,7 @@ date_format = "January 2006"
   company_url = "http://opus.les.inf.puc-rio.br"
   location = "Rio de Janeiro, Brazil"
   date_start = "2016-05-01"
-  date_end = ""
+  date_end = "2019-12-21"
   description = """Development of a gamified platform for promoting virtual communities to prevent and combat Zika, Chikungunya, and Dengue. The core is the VazaZika plafform, a gamified system for stimulating citizens to denounce and confirm Aedes breeding sites, and for updating users, in real time, about actions taken by health agents.
   Responsibilities include:
   
