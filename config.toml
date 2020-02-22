@@ -52,20 +52,20 @@ enableGitInfo = false
 
   # Your details.
   name = "Leonardo Sousa"
-  role = "PhD in Computer Science"
+  role = "Assistant Teaching Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Pontifical Catholic University of Rio de Janeiro", url = "http://www.puc-rio.br/english/" } ]
+  organizations = [ { name = "Carnegie Mellon University", url = "https://sv.cmu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "ssousaleo@gmail.com"
-  #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "leo.sousa@sv.cmu.edu"
+  address = "Building 23, Room 105 B. NASA Research Park, Moffett Field, CA 94035, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  phone = "650 335 2838"
   skype = "ssousaleo"
   telegram = "ssousaleo"
   #keybase = "ssousaleo.github.io"  # Your keybase.io username.
@@ -315,16 +315,21 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+ [[menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 7
 
 # Search.
 [params.search]

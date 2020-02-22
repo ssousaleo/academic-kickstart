@@ -7,7 +7,7 @@ active = true
 date = 2020-02-19T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "SV&T"
+title = "Teaching"
 subtitle = "Software Verification & Testing"
 
 # Order that this section will appear in.
